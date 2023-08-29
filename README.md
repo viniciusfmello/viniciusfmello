@@ -1,4 +1,4 @@
-### opaa, sou o vinicius e sou estudante do segundo período de Análise e Desenvolvimento de Sistemas. :)
+### Opaa, me chamo Vinicius e sou estudante do segundo período de Análise e Desenvolvimento de Sistemas. :)
 <head>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
