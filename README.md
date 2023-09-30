@@ -4,9 +4,9 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </head>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact)](https://github.com/viniciusfmello/github-readme-stats)
-
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)](https://github.com/viniciusfmello/github-readme-stats)
+</div>
 ##
 <div style= "display: inline_block; float: left">
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
