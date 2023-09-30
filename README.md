@@ -4,8 +4,8 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </head>
-<a href="https://github.com/viniciusfmello/github-readme-stats">
-  <img align="center" src="https://github-readme-status.vercel.app/api/pin/?username=viniciusfmello&repo=github-readme-stats&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 ##
 <div style= "display: inline_block; float: left">
