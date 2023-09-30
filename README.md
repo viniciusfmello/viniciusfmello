@@ -6,7 +6,7 @@
 </head>
 
 <div style= "float:left;">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)
+ <img src"![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)">
 </div>
 
 ##
