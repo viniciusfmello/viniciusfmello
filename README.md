@@ -11,8 +11,8 @@
 </div>
 
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img position-relative="190px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/viniciusfmello/github-readme-stats">
+  <img position-relative="190px" src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusfmello&repo=github-readme-stats" />
 </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)
 
