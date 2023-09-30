@@ -11,10 +11,7 @@
 </div>
 
 ##
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact)
- media="(prefers-color-scheme: dark)"
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello)]
 <div style= display: inline_block><br>
  <a href="https://www.linkedin.com/in/vinicius-mello-739802229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:viniciusferreiramello2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
