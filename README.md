@@ -6,7 +6,7 @@
 </head>
 
  <a href="https://github.com/viniciusfmello/github-readme-stats">
-  <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)" />
+  <img float="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)" />
 </a>
 
 ##
