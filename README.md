@@ -4,9 +4,8 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </head>
-<div style= "display: inline_block; float: left">
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusfmello)](https://github.com/viniciusfmello/github-readme-stats)
 
 ##
 <div style= "display: inline_block; float: left">
