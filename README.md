@@ -5,7 +5,7 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </head>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusfmello)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact)](https://github.com/viniciusfmello/github-readme-stats)
 
 ##
 <div style= "display: inline_block; float: left">
