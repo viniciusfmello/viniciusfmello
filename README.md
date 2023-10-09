@@ -6,7 +6,7 @@
 </head>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark&display=block&&float=left)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark&display=block&&float=right)
 
 <div style= "display: block; float: right;">
 <div style= "display: inline_block;">
