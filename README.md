@@ -6,7 +6,6 @@
 </head>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark&style=display=block&&float=left)
 
 <div style= "display: block; float: right;">
 <div style= "display: inline_block;">
@@ -21,3 +20,4 @@
  <a href="https://discord.com/channels/@venelson#9979" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark&style=display=block&&float=left)
