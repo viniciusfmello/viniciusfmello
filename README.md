@@ -6,9 +6,9 @@
 </head>
 
 ##
-
+<div style= "display: block; float: right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfmello&layout=compact&theme=dark)
-
+</div>
 <div style= "display: inline_block; float: right">
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
