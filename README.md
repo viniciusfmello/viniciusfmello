@@ -1,5 +1,5 @@
 
-<h3>Opaa, eu me chamo Vinicius e sou formado Análise e Desenvolvimento de Sistemas.</h1>
+<h3>Opaa, eu me chamo Vinicius e sou formado em Análise e Desenvolvimento de Sistemas.</h1>
 <head>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
